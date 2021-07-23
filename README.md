@@ -1,2 +1,2 @@
 # microchip-embedded-alarm-clock
-Embedded alarm-clock for microchip MIPS toolkit. 
+Embedded alarm-clock for Digilent MIPS toolkit. 
